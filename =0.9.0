@@ -30,7 +30,7 @@ npmtest-generator-angular@0.0.1 /home/travis/build/npmtest/node-npmtest-generato
     │   │ └── signal-exit@3.0.2 
     │   ├── map-obj@1.0.1 
     │   ├─┬ normalize-package-data@2.3.6 
-    │   │ ├── hosted-git-info@2.4.1 
+    │   │ ├── hosted-git-info@2.4.2 
     │   │ ├─┬ is-builtin-module@1.0.0 
     │   │ │ └── builtin-modules@1.1.1 
     │   │ ├── semver@5.3.0 
@@ -216,7 +216,7 @@ npmtest-generator-angular@0.0.1 /home/travis/build/npmtest/node-npmtest-generato
     │ │ │ │ └── path-dirname@1.0.2 
     │ │ │ ├─┬ micromatch@2.3.11 
     │ │ │ │ ├─┬ arr-diff@2.0.0 
-    │ │ │ │ │ └── arr-flatten@1.0.1 
+    │ │ │ │ │ └── arr-flatten@1.0.3 
     │ │ │ │ ├── array-unique@0.2.1 
     │ │ │ │ ├─┬ braces@1.8.5 
     │ │ │ │ │ ├─┬ expand-range@1.8.2 
