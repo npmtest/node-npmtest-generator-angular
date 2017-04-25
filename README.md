@@ -1,4 +1,7 @@
-# test coverage for  [generator-angular (v0.16.0)](https://github.com/yeoman/generator-angular#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-generator-angular.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-generator-angular) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-generator-angular.svg)](https://travis-ci.org/npmtest/node-npmtest-generator-angular)
+# npmtest-generator-angular
+
+#### basic test coverage for  [generator-angular (v0.16.0)](https://github.com/yeoman/generator-angular#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-generator-angular.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-generator-angular) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-generator-angular.svg)](https://travis-ci.org/npmtest/node-npmtest-generator-angular)
+
 #### Yeoman generator for AngularJS
 
 [![NPM](https://nodei.co/npm/generator-angular.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/generator-angular)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-generator-angular/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-generator-angular/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-generator-angular/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-generator-angular/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-generator-angular/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-generator-angular/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-generator-angular/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-generator-angular/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-generator-angular/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-generator-angular/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-generator-angular/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-generator-angular/build/coverage.html/index.html)
 
@@ -134,7 +137,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "0.16.0"
+    "version": "0.16.0",
+    "bin": {}
 }
 ```
 
